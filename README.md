@@ -2,7 +2,7 @@
 
 ## Tareas
 - [ ] Inventarios 
-  - [ ] diagrama base de datos
+  - [x] diagrama base de datos
   - [ ] instalacion de nuxt
   - [ ] creacion de endpoints con maqueta basica
   - [ ] listar apis a utilizar
