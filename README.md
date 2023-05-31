@@ -12,4 +12,4 @@
 -----------
 ## Inventarios
 ### Diagrama
-![Diagrama Inventarios](https://example.com/imagen.png)
+![Diagrama Inventarios](https://raw.githubusercontent.com/jcgabourel/analisisSistemaRedprint/main/Diagrama%20Inventario.png)
