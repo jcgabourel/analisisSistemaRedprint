@@ -3,12 +3,11 @@
 ## Tareas
 - [ ] Inventarios 
   - [x] diagrama base de datos
-  - [ ] instalacion de nuxt
-  - [ ] creacion de endpoints con maqueta basica
-  - [ ] listar apis a utilizar
-  - [ ] crear test para las apis
-  - [ ] crear apis
-  - [ ] implementar apis
+  - [ ] instalacion de Larave 2 Branchs , boilerplate y coreui
+  - [ ] creacion de rutas y endpoints  
+  - [ ] crear test para endpoints
+  - [ ] crear controladores+ modelos
+  - [ ] cerrar
 -----------
 ## Inventarios
 ### Diagrama
