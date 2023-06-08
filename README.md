@@ -3,7 +3,7 @@
 ## Tareas
 - [ ] Inventarios 
   - [x] diagrama base de datos
-  - [ ] instalacion de Larave 2 Branchs , boilerplate y coreui
+  - [x] instalacion de Larave 2 Branchs , boilerplate y coreui
   - [ ] creacion de rutas y endpoints  
   - [ ] crear test para endpoints
   - [ ] crear controladores+ modelos
